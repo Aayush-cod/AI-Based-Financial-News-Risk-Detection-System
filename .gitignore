@@ -1,0 +1,13 @@
+# Ignore datasets
+*.csv
+*.json
+Financial News Sentiment Dataset (2012–2022)/
+Sentiment Analysis for Financial News/
+
+# Ignore model files
+*.pkl
+
+# Ignore system files
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
